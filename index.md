@@ -1,9 +1,10 @@
 # About me
 Hi! I'm Pandentia. I spend my spare time writing code,
 among other things like playing fun little videogames like
-N++ or being heavily addicted to Mass Effect (and if you 
-mention the word Andromeda in front of me I will probably
-unfriend and block you for all eternity).
+N++ or being heavily addicted to Mass Effect (and if you
+mention the word [Andromeda](https://www.youtube.com/watch?v=ckGMP5OxnLg)
+in front of me I will probably unfriend and block you
+for all eternity).
 
 ## Projects
 ##### *These are some projects that I built*
