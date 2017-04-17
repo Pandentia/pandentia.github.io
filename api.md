@@ -7,6 +7,9 @@
     .http-url {
         color: #666666
     }
+    .http-url-i {
+        color: black
+    }
 </style>
 
 ## Discord
