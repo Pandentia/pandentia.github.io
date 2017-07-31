@@ -2,6 +2,7 @@
 Aria is the first moderation-oriented bot I made with my own framework, and I think I did a pretty good job.
 
 ### [Invite Link](https://discordapp.com/oauth2/authorize?client_id=244901248153681931&scope=bot&permissions=8)
+* Requires administrator <sup>[why?](#adminreason)</sup>
 
 ## Features
 * Global bans (to prevent the worst of the worst from joining your server)
@@ -30,8 +31,9 @@ Please submit feature requests via the `??feedback` command.
     * If your server is too small (<5 people), she will leave, as there's not really a need for her there.
     * If your server's bot-to-human ratio is too high, she will leave, due to the fact that I still have to
     pay my server's power bill and sitting around, idling, in a bot testing server is wasteful.
-    * If you don't grant Aria administrator privileges within 2 minutes of adding her, she will leave.
-    This is due to the fact that Aria is a moderation bot, which makes her quite useless without admin permissions.
+    * <a name="adminreason></a>If you don't grant Aria administrator privileges within 2 minutes of adding her, she 
+    will leave. This is due to the fact that Aria is a moderation bot, which makes her quite useless without admin 
+    permissions.
         * I realize that trusting a bot with admin permissions can be difficult, but Aria will only perform 
         administrative actions if they have been enabled beforehand (with the exception of crash prevention, which 
         protects server members from malicious users attempting to crash their clients, however even this feature can
