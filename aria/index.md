@@ -45,8 +45,8 @@ Please submit feature requests via the `??feedback` command.
 ## Name origin
 Some of you might wonder why I picked this name, and won't
 even understand who or what the avatar is. Basically, the long
-and short of it is that [Aria](http://masseffect.wikia.com/wiki/Aria_T'Loak)
-is an [asari](http://masseffect.wikia.com/wiki/Asari) who controls
+and short of it is that <a href="http://masseffect.wikia.com/wiki/Aria_T'Loak" target="_blank">Aria</a>
+is an <a href="http://masseffect.wikia.com/wiki/Asari" target="_blank">asari</a> who controls
 a mining asteroid known as Omega. To quote the wiki,
 > Aria is very authoritative of her reign on Omega, ruling the
 station with an iron fist. *[...]* Almost nothing that happens on Omega escapes her notice, causing mercenary groups
