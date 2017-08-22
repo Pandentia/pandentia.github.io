@@ -1,7 +1,7 @@
 # Aria
 Aria is the first moderation-oriented bot I made with my own framework, and I think I did a pretty good job.
 
-### [Invite Link](https://discordapp.com/oauth2/authorize?client_id=244901248153681931&scope=bot&permissions=8)
+### <a href="https://discordapp.com/oauth2/authorize?client_id=244901248153681931&scope=bot&permissions=8" target="_blank">Invite Link</a>
 * Requires administrator <sup>[why?](#adminreason)</sup>
 
 ## Features
