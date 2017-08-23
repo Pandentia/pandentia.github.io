@@ -2,6 +2,10 @@
 Aria is the first moderation-oriented bot I made with my own framework, and I think I did a pretty good job.
 <base target="_parent">
 
+**Owners**: Me (Pandentia#0555, 136900814408122368), Hexadecimal™#0910 (163948331956043776)
+
+**Prefix**: `??`
+
 ### <a href="https://discordapp.com/oauth2/authorize?client_id=244901248153681931&scope=bot&permissions=8" target="_blank">Invite Link</a>
 
 ## Features
