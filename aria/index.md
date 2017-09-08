@@ -20,14 +20,14 @@ Temporary voice channels | Teamspeak-like voice channels (letting users create t
 Temporary bans | Temporarily kicking someone from your server and preventing them from joining for a specified period of time
 Regex message filtering | Filtering messages with the most powerful of syntaxes, Regex
 Hackbans | Ban people from your server before they even step foot in it
-Voice kicks | Kicking people from voice channels
-Message logging \* | Logging message history 
-Client crash prevention \* | Prevents malicious users from crashing people's clients
+Voice kicks | Kicking specific people from voice channels
+Message logging \* | Logging message history, including deleted messages, to allow for easier moderation
+Client crash prevention \* | Prevents malicious users from crashing people's clients with malformed strings of characters
 Reputation \*\* | A reputation score based on the user's previous actions, such as getting banned and deleted messages
 
-*\* Features that are activated by default, but can be disabled at any time.*
+\* *Features that are activated by default, but can be disabled at any time.*
 
-*\*\* Feature cannot be disabled as it would negatively impact other servers, however is restricted to moderator usage.*
+\*\* *Feature cannot be disabled as it would negatively impact other servers, however is restricted to moderator usage.*
 
 You can find the commands to enable all of these features via `??help`.
 
