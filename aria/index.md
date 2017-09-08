@@ -9,22 +9,27 @@ Aria is the first moderation-oriented bot I made with my own framework, and I th
 ### <a href="https://discordapp.com/oauth2/authorize?client_id=244901248153681931&scope=bot&permissions=8" target="_blank">Invite Link</a>
 
 ## Features
-* Global bans (to prevent the worst of the worst from joining your server)
-* Mod logs
-* Welcome messages
-* Temporary voice channels
-* Temporary bans
-* Regex message filtering
-* Hackbans
-* Voice kicks
-* Message logging
-* Client crash prevention
+All features are optional and are disabled by default unless otherwise noted with an asterisk.
 
-Some of these features are enabled by default, like message logging and client crash prevention. These can however be
-disabled at any time.
+Feature name | Description
+--- | ---
+Global bans | Prevents the worst of the worst from joining your server
+Mod logs | Since the Audit Log only goes back 45 days, this is a more persistent way of keeping track of moderation actions in a channel (Similar to the Pollr bot)
+Welcome messages | Messages sent when a user join in an embed, which allows for markdown links and optional mentioning of said user.
+Temporary voice channels | Teamspeak-like voice channels (letting users create their own channels with their own permissions, then deleting when the channel is empty)
+Temporary bans | Temporarily kicking someone from your server and preventing them from joining for a specified period of time
+Regex message filtering | Filtering messages with the most powerful of syntaxes, Regex
+Hackbans | Ban people from your server before they even step foot in it
+Voice kicks | Kicking people from voice channels
+Message logging \* | Logging message history 
+Client crash prevention \* | Prevents malicious users from crashing people's clients
+Reputation \*\* | A reputation score based on the user's previous actions, such as getting banned and deleted messages
 
-You can find the commands to enable all of this via `??help`.
+*\* Features that are activated by default, but can be disabled at any time.*
 
+*\*\* Feature cannot be disabled as it would negatively impact other servers, however is restricted to moderator usage.*
+
+You can find the commands to enable all of these features via `??help`.
 
 ### Making feature requests
 Please submit feature requests via the `??feedback` command.
