@@ -15,7 +15,7 @@ Feature name | Description
 --- | ---
 Global bans | Prevents the worst of the worst from joining your server
 Mod logs | Since the Audit Log only goes back 45 days, this is a more persistent way of keeping track of moderation actions in a channel (Similar to the Pollr bot)
-Welcome messages | Messages sent when a user joins, optionally in an embed for support for markdown links. Extensive variables for server names, current channel, username, user mention, etc.
+Welcome messages | Messages sent when a user joins, optionally in an embed for support for markdown links. Extensive variables for server names, current channel, username, user mention, etc. Can be formatted as a message or inside an embed.
 Temporary voice channels | Teamspeak-like voice channels (letting users create their own channels with their own permissions, then deleting when the channel is empty)
 Temporary bans | Temporarily kicking someone from your server and preventing them from joining for a specified period of time
 Regex message filtering | Filtering messages with the most powerful of syntaxes, Regex
